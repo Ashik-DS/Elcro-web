@@ -198,3 +198,22 @@ margin: auto !important;
     font-size: 30px;
     margin-right: 5px;
 }
+
+
+
+/*contact page css*/
+
+.contact-page {
+    margin-top: -50px !important;
+    padding-top: 40px;
+}
+
+/*Bulb section css*/
+
+.bulbs-section{
+    margin-top: 0px;
+}
+
+.news_section{
+    margin-top: -48px ;
+}
