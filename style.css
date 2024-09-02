@@ -1,0 +1,200 @@
+.nav-bg{
+  background: url(./images/banner-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+height: 500px;
+
+}
+
+.center-manu ul{
+    text-align: center;
+    padding: 10px;
+}
+.center-manu ul li{
+    padding: 20px;
+}
+.center-manu ul li :hover{
+    background-color: rgb(14, 13, 13);
+    transition: .3s;
+    color: white;
+  
+    
+}
+.logo-header{
+    font-weight: bold;
+    font-size: 40px !important;
+    margin-right: 130px;
+}
+
+.search{
+    color: white !important;
+    background-color: rgb(15, 14, 14) !important;
+}
+.container-fluid a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+
+    
+}
+
+/* coursel point css */
+
+
+.coursel {
+    margin-top: 90px;
+    color: white;
+    text-align: center;
+}
+.btn-h{
+    border-radius: 0% !important;
+    color: white !important;
+    padding: 10px !important;
+}
+
+/*about section*/
+
+.about-img img {
+    width: 100%;
+    margin-right: 3px;
+}
+
+.about-btn {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    transition: .2s;
+
+}
+
+.about-btn:hover{
+    color: rgb(230, 230, 84);
+
+
+}
+
+
+/* bulb section css*/
+
+.bulb-section {
+    background-color: black;
+    margin-top: 6rem;
+}
+
+.bulb-header{
+    color: white;
+    text-align: center;
+}
+.slider {
+    width: 48rem !important;
+    margin: auto;
+    margin-top: 5rem;
+}
+.slider-img img{
+    width: 93%;
+    margin-top: 2rem;
+    border: 1px solid rgb(14, 13, 13) ;
+}
+.client-header{
+    text-align: center;
+    color: white;
+    margin-top: 7rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.customer-bio{
+    border: 1px solid white ;
+    color: white;
+}
+.read-more{
+    border: 1px solid white;
+    padding: 10px;
+    font-weight: bold;
+    transition: .3s;
+    border-radius:0% !important;
+    margin-top: 2rem;
+}
+.read-more:hover{
+    background-color: white;
+    color: black;
+
+}
+
+
+.from-hd{
+    margin-top: 5rem;
+    text-align: center;
+    color: rgb(255, 255, 254);
+}
+.form-section{
+    width: 800px;
+    margin-top: 10px;
+
+}
+.control-f{
+    color: white !important;
+    background-color: black !important;
+    border: 1px solid rgb(211, 199, 199);
+    margin-bottom: 2rem !important;
+    border-radius: 0% !important;
+    font-size:large !important;
+
+    
+}
+.btn-f {
+    text-align: center !important;
+    padding: 10px;
+  
+
+margin: auto !important;
+}
+  .send{
+    border: 1px solid white;
+    display: inline-block !important;
+    padding: 1rem 3rem;
+    font-weight: bold;
+    background-color:#fcc92e;
+    border-radius: 0% !important;
+    color: white;
+    transition: .3s;
+  }
+  .send:hover{
+    background-color: white;
+    color: black;
+  }
+
+  /* footer menu*/
+
+  .footer-menu{
+    position: relative;
+  }
+  .footer-menu li::before {
+    content: "";
+    height: 9px;
+    width: 25px;
+    background: #ffc107;
+    position: absolute;
+    left: 2px;
+    right: 0px;
+    margin-top: 8px;
+    border-radius: 20px;
+}
+.f-btn {
+    margin-top: 2px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #fcc92e;
+    
+}
+.f-btn a{
+    text-decoration: none ;
+    color: white ;
+    font-weight: bold
+}
+.social{
+    font-size: 30px;
+    margin-right: 5px;
+}
